@@ -16,15 +16,13 @@
 
 I'm a final-year B.Tech student at **Guru Gobind Singh Indraprastha University, Delhi**.
 
-I'm backend because I'm **curious about how things work**  not just that they work. The kind of engineer who watches a movie, notices the video is streaming, and immediately wonders: *how does it know exactly where I left off?* That curiosity is what drives me to learn.
+I'm backend developer because I'm **curious about how things work**  not just that they work. The kind of engineer who watches a movie, notices the video is streaming, and immediately wonders: *how does it know exactly where I left off?* That curiosity is what drives me to learn.
 
 I don't build clones. I build things I've actually faced and needed. Every project starts with a real problem or a question I couldn't stop thinking about.
 
 I believe in **think more, write less**  which I'd argue is the job of every good engineer.
 
-- 🔭 Currently building **[Problr]** — a Problem solving platform
 - 💼 Former **Backend Developer Intern** at Codesoar Technologies
-- 📖 Currently reading **Designing Data-Intensive Applications** by Martin Kleppmann
 - 🎓 B.Tech in Information Technology (2022–2026) · CGPA: **7.9 / 10**
 - 📍 Based in Delhi, India
 
