@@ -1,97 +1,107 @@
-<h1 align="center">Hey there, I'm Priyanshu Pandey 👋</h1>
+<h1 align="center">Hey, I'm Priyanshu Pandey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=how+does+Netflix+know+where+I+left+off%3F;why+did+that+query+take+1.2s+%E2%80%94+and+how+do+I+fix+it%3F;what+happens+when+two+requests+hit+the+DB+at+once%3F;how+does+a+message+reach+you+in+milliseconds%3F;curious+first.+engineer+second." alt="Typing SVG" />
+  <strong>Software Engineer @ Bug0 · Backend Engineering · Exploring AI Systems</strong>
 </p>
 
 <p align="center">
-  <b>Backend Developer · Builder · Open to Collaborate</b><br/><br/>
-  <a href="https://devtalks.live">🌐 devtalks.live</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/priyanshu-pandey-52839325a">💼 LinkedIn</a> &nbsp;
+  <em>Understand the why before writing the how.</em>
+</p>
+
+<p align="center">
+  <a href="https://devtalks.live">DevTalks</a> ·
+  <a href="https://x.com/priyanshup7363">X</a> ·
+  <a href="https://www.linkedin.com/in/priyanshu-pandey-52839325a">LinkedIn</a> ·
+  <a href="https://youtube.com/@devtalks-l2r">YouTube</a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+### A little about me
 
-I'm a final-year B.Tech student at **Guru Gobind Singh Indraprastha University, Delhi**.
+I'm a software engineer who enjoys understanding **why systems work the way they do**, not just making them work.
 
-I'm backend developer because I'm **curious about how things work**  not just that they work. The kind of engineer who watches a movie, notices the video is streaming, and immediately wonders: *how does it know exactly where I left off?* That curiosity is what drives me to learn.
+At **Bug0**, I work with clients on website and API performance, frontend optimization, bug fixes, and reliability, while also contributing to our internal product and developer tooling. One problem I've worked on is configuring **single sign-on (SSO) for regression testing**.
 
-I don't build clones. I build things I've actually faced and needed. Every project starts with a real problem or a question I couldn't stop thinking about.
+I'm particularly drawn to **backend architecture, distributed systems, database performance, and the engineering behind useful products**. More recently, I've been learning how LLMs and AI agents fit into real software systems.
 
-I believe in **think more, write less**  which I'd argue is the job of every good engineer.
+I like starting with a small, real problem, questioning the assumptions, and figuring out what is worth building. To me, good engineering is about **trade-offs, not perfect code**.
 
-- 💼 Former **Backend Developer Intern** at Codesoar Technologies
-- 🎓 B.Tech in Information Technology (2022–2026) · CGPA: **7.9 / 10**
-- 📍 Based in Delhi, India
+### What I'm building
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://devtalks.live">DevTalks ↗</a></h3>
+      <p><strong>Developer networking platform</strong></p>
+      <p>A place for developers to find collaborators, share their work, and connect in real time.</p>
+      <p><sub>Node.js · MongoDB · Socket.io · Redis · OAuth</sub></p>
+      <p>Explored geospatial discovery, real-time messaging, GitHub profile synchronization, and authentication flows.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>StreamHub</h3>
+      <p><strong>Video platform · In progress</strong></p>
+      <p>Building a YouTube-inspired product to learn the engineering behind video uploads and streaming.</p>
+      <p><sub>Video uploads · Streaming · Backend architecture</sub></p>
+      <p>Using the project to ask better questions about how media systems are designed.</p>
+    </td>
+  </tr>
+</table>
 
+### What I'm exploring
 
-## 🛠️ Tech Stack
+- **Backend & systems:** scalability, distributed systems, API performance, and database query optimization.
+- **AI engineering:** LLM fundamentals and inference, RAG and embeddings, agents and tool calling, and MCP.
+- **Product thinking:** how a small problem becomes a useful, maintainable product.
+
+I'm **learning** AI engineering, not claiming to have mastered it. I'm interested in understanding how to build reliable applications around these technologies.
+
+### Tools I work with
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript |
+| **Backend** | Node.js, Express, REST APIs, Socket.io |
+| **Data** | PostgreSQL, MongoDB, Redis |
+| **Jobs & infrastructure** | BullMQ, Docker, Docker Compose |
+| **Frontend** | React, Next.js |
+| **Other** | Git, JWT, OAuth, Prisma, Mongoose |
+
+### Experience
+
+**Software Engineer · Bug0** — *Current*
+
+- Work with clients on backend API performance, website speed, and frontend rendering improvements.
+- Contribute to internal product and developer tooling, bug fixes, and reliability.
+- Worked on SSO configuration for regression testing.
+
+**Backend Developer Intern · Codesoar Technologies** — *Apr 2025 – Jul 2025*
+
+- Worked on backend modules for a school management system with role-based access control.
+- Implemented authentication flows and worked with PostgreSQL transactions and query optimization.
+
+### Notes from the learning process
+
+I share technical ideas, questions, and what I'm learning on **[X](https://x.com/priyanshup7363)** and **[YouTube](https://youtube.com/@devtalks-l2r)**, and also write on Medium and Hashnode.
+
+Some questions I keep coming back to:
+
+> How do you turn a small problem into a useful product?
+>
+> What trade-offs make a system simpler, faster, or more reliable?
+>
+> How can AI fit into a product without becoming complexity for its own sake?
+
+### GitHub activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupandey12&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-| Layer | Technologies |
-|---|---|
-| **Languages** | JavaScript (ES6+) |
-| **Backend** | Node.js, Express.js, REST APIs, Socket.io |
-| **Databases** | MongoDB, PostgreSQL |
-| **Auth & Security** | JWT (access/refresh + rotation), Google OAuth, Passport.js |
-| **ORM / ODM** | Prisma, Mongoose |
-| **DevTools** | Redis, Cloudinary, Multer, node-cron, Git |
-
 ---
-
-
-
-## 🚀 Featured Project
-
-### [DevTalks](https://devtalks.live) — Developer Networking Platform
-> *Find your next collaborator, not just a connection.*
-
-A developer-first networking platform for builders to discover collaborators, showcase live GitHub activity, and communicate in real time.
-
-| Feature | Stack Used |
-|---|---|
-| 📍 Geospatial Search (500km radius) | MongoDB Geo-indexes |
-| 💬 Real-time Bidirectional Messaging | Socket.io + Redis |
-| 🔄 Automated GitHub Profile Sync | node-cron |
-| 🔐 Secure Authentication | Google OAuth + Passport.js + JWT Rotation |
-| 🖼️ Media Uploads | Multer (memory storage) + Cloudinary |
-
----
-
-## 💼 Work Experience
-
-### Backend Developer Intern · [Codesoar Technologies](https://codesoar.io/) *(Apr 2025 – Jul 2025)*
-
-- Built core modules of a **School Management System** using Node.js, Express, and MongoDB with role-based access control for admin, teacher, and student workflows
-- Strengthened authentication via **JWT access/refresh token rotation**, reducing replay attack risk
-- Ensured **transactional consistency** in PostgreSQL using Prisma to prevent partial updates during concurrent operations
-- Improved **API latency by 40–60%** (1.2s → 400–500ms) through query optimization and indexing
-
----
-
-## 📊 GitHub Stats
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshupandey12&theme=tokyonight&hid" />
-    </p>
+  <strong>Curious about systems, AI, or building useful products?</strong><br/>
+  I enjoy conversations with people who question how technology works.<br/><br/>
+  <a href="https://x.com/priyanshup7363">Let's talk on X ↗</a> · <a href="https://www.linkedin.com/in/priyanshu-pandey-52839325a">Connect on LinkedIn ↗</a>
+</p>
